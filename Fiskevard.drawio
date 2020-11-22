@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-22T14:02:26.084Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="oi9lec5kiPBRyDf1s_tm" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-22T14:10:00.976Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="21LKA-rPfOrL8uX0gUq_" version="13.10.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1068" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -20,16 +20,34 @@
           <mxGeometry x="520" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pcwcp30AUG_rfzm1ce2V-7" value="Kommun" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="690" y="450" width="100" height="40" as="geometry" />
+          <mxGeometry x="690" y="440" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pcwcp30AUG_rfzm1ce2V-8" value="Ligger i" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="680" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Pcwcp30AUG_rfzm1ce2V-9" value="Id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
           <mxGeometry x="20" y="120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pcwcp30AUG_rfzm1ce2V-10" value="Försäljingsdatum" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="150" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pcwcp30AUG_rfzm1ce2V-11" value="Sort" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="430" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pcwcp30AUG_rfzm1ce2V-13" value="Id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="290" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pcwcp30AUG_rfzm1ce2V-15" value="Namn" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="720" y="520" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pcwcp30AUG_rfzm1ce2V-16" value="Kommun-nr" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="580" y="520" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pcwcp30AUG_rfzm1ce2V-17" value="Id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="590" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Pcwcp30AUG_rfzm1ce2V-18" value="Namn" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="720" y="120" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
