@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2020-11-22T17:45:48.080Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="ySdy3hHR8Fy7b5MeAxph" version="13.10.0" type="github">
-  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2020-11-22T18:11:55.067Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="QIaZ6yiAbVHvxdeojMUh" version="13.10.0" type="github" pages="2">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="ER-diagrammet">
     <mxGraphModel dx="1068" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
@@ -150,6 +150,53 @@
             <mxPoint x="390" y="320" as="sourcePoint" />
             <mxPoint x="550" y="320" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wedLrjM62_7j6WmkmnDH" name="Page-2">
+    <mxGraphModel dx="801" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="TuOTfP6HNLD9nFRr-L4U-0" />
+        <mxCell id="TuOTfP6HNLD9nFRr-L4U-1" parent="TuOTfP6HNLD9nFRr-L4U-0" />
+        <mxCell id="TuOTfP6HNLD9nFRr-L4U-2" value="Försäljningsställe" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=13;" vertex="1" parent="TuOTfP6HNLD9nFRr-L4U-1">
+          <mxGeometry x="60" y="80" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TuOTfP6HNLD9nFRr-L4U-3" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TuOTfP6HNLD9nFRr-L4U-2">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TuOTfP6HNLD9nFRr-L4U-4" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" vertex="1" parent="TuOTfP6HNLD9nFRr-L4U-3">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TuOTfP6HNLD9nFRr-L4U-5" value="ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="TuOTfP6HNLD9nFRr-L4U-3">
+          <mxGeometry x="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TuOTfP6HNLD9nFRr-L4U-6" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TuOTfP6HNLD9nFRr-L4U-2">
+          <mxGeometry y="60" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TuOTfP6HNLD9nFRr-L4U-7" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="TuOTfP6HNLD9nFRr-L4U-6">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TuOTfP6HNLD9nFRr-L4U-8" value="Namn" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="TuOTfP6HNLD9nFRr-L4U-6">
+          <mxGeometry x="30" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TuOTfP6HNLD9nFRr-L4U-9" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TuOTfP6HNLD9nFRr-L4U-2">
+          <mxGeometry y="90" width="180" as="geometry" />
+        </mxCell>
+        <mxCell id="TuOTfP6HNLD9nFRr-L4U-10" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;fontSize=18;" vertex="1" parent="TuOTfP6HNLD9nFRr-L4U-9">
+          <mxGeometry width="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TuOTfP6HNLD9nFRr-L4U-11" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="TuOTfP6HNLD9nFRr-L4U-9">
+          <mxGeometry x="30" width="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TuOTfP6HNLD9nFRr-L4U-12" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TuOTfP6HNLD9nFRr-L4U-2">
+          <mxGeometry y="90" width="180" as="geometry" />
+        </mxCell>
+        <mxCell id="TuOTfP6HNLD9nFRr-L4U-13" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="TuOTfP6HNLD9nFRr-L4U-12">
+          <mxGeometry width="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TuOTfP6HNLD9nFRr-L4U-14" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="TuOTfP6HNLD9nFRr-L4U-12">
+          <mxGeometry x="30" width="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
