@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-22T19:02:17.267Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="I2q7o35I98BzWOUVY-Jo" version="13.10.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-22T19:18:57.017Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="LXWpCsTIBPnfbol0FoYo" version="13.10.0" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="ER-diagrammet">
     <mxGraphModel dx="1068" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -155,7 +155,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wedLrjM62_7j6WmkmnDH" name="Tabellschema">
-    <mxGraphModel dx="801" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1068" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="TuOTfP6HNLD9nFRr-L4U-0" />
         <mxCell id="TuOTfP6HNLD9nFRr-L4U-1" parent="TuOTfP6HNLD9nFRr-L4U-0" />
