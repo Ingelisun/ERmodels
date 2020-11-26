@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T16:34:57.041Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="9Jn7XpTIJxk-RmflBH7U" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T16:52:14.137Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="1EdZMLogOaOKS48LcgTU" version="13.10.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="ER Bank">
     <mxGraphModel dx="801" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="RgS6wVVnpnccaiiTrmtR-3" value="Konto" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="500" y="160" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RgS6wVVnpnccaiiTrmtR-6" value="Kund" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="RgS6wVVnpnccaiiTrmtR-6" value="Kort" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="290" y="290" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RgS6wVVnpnccaiiTrmtR-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RgS6wVVnpnccaiiTrmtR-6" target="RgS6wVVnpnccaiiTrmtR-2">
@@ -36,6 +36,36 @@
         </mxCell>
         <mxCell id="RgS6wVVnpnccaiiTrmtR-10" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;font-size: 13px;&quot;&gt;N&lt;/b&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="320" y="210" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="RgS6wVVnpnccaiiTrmtR-11" value="&lt;u&gt;Kundnr&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="10" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgS6wVVnpnccaiiTrmtR-12" value="Kundnamn" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgS6wVVnpnccaiiTrmtR-13" value="Kundadress" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgS6wVVnpnccaiiTrmtR-14" value="&lt;u&gt;Kontonr&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="70" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgS6wVVnpnccaiiTrmtR-15" value="Kontosaldo" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="470" y="20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgS6wVVnpnccaiiTrmtR-16" value="Kontokreditgräns" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="600" y="30" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgS6wVVnpnccaiiTrmtR-17" value="Kontotypsbenämning" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="620" y="90" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgS6wVVnpnccaiiTrmtR-18" value="&lt;u&gt;Kortnr&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="450" y="230" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgS6wVVnpnccaiiTrmtR-19" value="Kontrollkod" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="560" y="270" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgS6wVVnpnccaiiTrmtR-20" value="Korttypskod" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="450" y="320" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
