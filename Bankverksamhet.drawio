@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T16:21:40.054Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="kiLZrLEg1tKvypv9QraT" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T16:25:07.143Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="6to9MReLUYjE5Iv88l-4" version="13.10.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="801" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RgS6wVVnpnccaiiTrmtR-4" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RgS6wVVnpnccaiiTrmtR-1" target="RgS6wVVnpnccaiiTrmtR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RgS6wVVnpnccaiiTrmtR-1" value="Kund" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgS6wVVnpnccaiiTrmtR-5" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RgS6wVVnpnccaiiTrmtR-2" target="RgS6wVVnpnccaiiTrmtR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RgS6wVVnpnccaiiTrmtR-2" value="Har" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="280" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RgS6wVVnpnccaiiTrmtR-3" value="Konto" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="500" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgS6wVVnpnccaiiTrmtR-6" value="Kund" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="290" y="290" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RgS6wVVnpnccaiiTrmtR-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RgS6wVVnpnccaiiTrmtR-6" target="RgS6wVVnpnccaiiTrmtR-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="230" as="sourcePoint" />
+            <mxPoint x="490" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
