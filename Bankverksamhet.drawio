@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T16:55:13.983Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="nZy2_jyakSO0qgbm--zw" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T16:57:13.427Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="4kzqhjaiXyzB-5ZxNWPb" version="13.10.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="ER Bank">
     <mxGraphModel dx="801" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -62,10 +62,10 @@
           <mxGeometry x="450" y="230" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RgS6wVVnpnccaiiTrmtR-19" value="Kontrollkod" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="560" y="270" width="100" height="40" as="geometry" />
+          <mxGeometry x="520" y="290" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RgS6wVVnpnccaiiTrmtR-20" value="Korttypskod" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="450" y="320" width="100" height="40" as="geometry" />
+          <mxGeometry x="414" y="330" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RgS6wVVnpnccaiiTrmtR-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RgS6wVVnpnccaiiTrmtR-11" target="RgS6wVVnpnccaiiTrmtR-1">
           <mxGeometry relative="1" as="geometry">
@@ -107,6 +107,24 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="80" as="sourcePoint" />
             <mxPoint x="470" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgS6wVVnpnccaiiTrmtR-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="RgS6wVVnpnccaiiTrmtR-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="310" as="sourcePoint" />
+            <mxPoint x="470" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgS6wVVnpnccaiiTrmtR-30" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="RgS6wVVnpnccaiiTrmtR-6" target="RgS6wVVnpnccaiiTrmtR-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="320" as="sourcePoint" />
+            <mxPoint x="470" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RgS6wVVnpnccaiiTrmtR-31" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="RgS6wVVnpnccaiiTrmtR-6" target="RgS6wVVnpnccaiiTrmtR-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="320" as="sourcePoint" />
+            <mxPoint x="431" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
