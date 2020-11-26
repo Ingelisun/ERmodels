@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T16:57:13.427Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="4kzqhjaiXyzB-5ZxNWPb" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-26T17:08:32.736Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="ENQnljn-wo_qCTlwbYeD" version="13.10.0" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="ER Bank">
     <mxGraphModel dx="801" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -125,6 +125,44 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="320" as="sourcePoint" />
             <mxPoint x="431" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fF85AWOc76rLjGXS_Tdn" name="ER Bank 2">
+    <mxGraphModel dx="801" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="BCpMoXxHgkQifUxFypCk-0" />
+        <mxCell id="BCpMoXxHgkQifUxFypCk-1" parent="BCpMoXxHgkQifUxFypCk-0" />
+        <mxCell id="fOpB_aTf2TSiLBTM1pU5-0" value="Kund" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="BCpMoXxHgkQifUxFypCk-1">
+          <mxGeometry x="80" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fOpB_aTf2TSiLBTM1pU5-1" value="&lt;u&gt;Kundnr&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="BCpMoXxHgkQifUxFypCk-1">
+          <mxGeometry x="10" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fOpB_aTf2TSiLBTM1pU5-2" value="Kundnamn" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="BCpMoXxHgkQifUxFypCk-1">
+          <mxGeometry x="90" y="20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fOpB_aTf2TSiLBTM1pU5-3" value="Kundadress" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="BCpMoXxHgkQifUxFypCk-1">
+          <mxGeometry x="160" y="80" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fOpB_aTf2TSiLBTM1pU5-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="BCpMoXxHgkQifUxFypCk-1" source="fOpB_aTf2TSiLBTM1pU5-1" target="fOpB_aTf2TSiLBTM1pU5-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="210" as="sourcePoint" />
+            <mxPoint x="470" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fOpB_aTf2TSiLBTM1pU5-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="BCpMoXxHgkQifUxFypCk-1" source="fOpB_aTf2TSiLBTM1pU5-2" target="fOpB_aTf2TSiLBTM1pU5-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="210" as="sourcePoint" />
+            <mxPoint x="470" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fOpB_aTf2TSiLBTM1pU5-6" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="BCpMoXxHgkQifUxFypCk-1" source="fOpB_aTf2TSiLBTM1pU5-3" target="fOpB_aTf2TSiLBTM1pU5-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="210" as="sourcePoint" />
+            <mxPoint x="470" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
