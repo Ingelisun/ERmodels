@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T17:56:58.414Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="Ldn2EHgLhFNeGEzySId7" version="13.10.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-26T18:02:13.238Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="41J5JhfcWshg6LDs6KfV" version="13.10.0" type="github" pages="3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="ER Bank">
     <mxGraphModel dx="801" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -317,7 +317,7 @@
         <mxCell id="iinVpgS5y358O5zJFQLC-6" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="iinVpgS5y358O5zJFQLC-2">
           <mxGeometry y="60" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iinVpgS5y358O5zJFQLC-7" value="112212-4" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=0;overflow=hidden;" vertex="1" parent="iinVpgS5y358O5zJFQLC-6">
+        <mxCell id="iinVpgS5y358O5zJFQLC-7" value="770116" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=0;overflow=hidden;" vertex="1" parent="iinVpgS5y358O5zJFQLC-6">
           <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iinVpgS5y358O5zJFQLC-8" value="Pelle Persson" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="iinVpgS5y358O5zJFQLC-6">
@@ -325,6 +325,33 @@
         </mxCell>
         <mxCell id="iinVpgS5y358O5zJFQLC-16" value="Ekvägen 2, 111 11 Eksjö" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="iinVpgS5y358O5zJFQLC-6">
           <mxGeometry x="180" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iinVpgS5y358O5zJFQLC-17" value="  Innehav" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=left;resizeLast=1;" vertex="1" parent="iinVpgS5y358O5zJFQLC-1">
+          <mxGeometry x="390" y="30" width="230" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iinVpgS5y358O5zJFQLC-18" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="iinVpgS5y358O5zJFQLC-17">
+          <mxGeometry y="30" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iinVpgS5y358O5zJFQLC-19" value="Kundnr" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=5;overflow=hidden;" vertex="1" parent="iinVpgS5y358O5zJFQLC-18">
+          <mxGeometry width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iinVpgS5y358O5zJFQLC-20" value="Kontonr" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="iinVpgS5y358O5zJFQLC-18">
+          <mxGeometry x="110" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iinVpgS5y358O5zJFQLC-21" value="Kortnr" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;" vertex="1" parent="iinVpgS5y358O5zJFQLC-18">
+          <mxGeometry x="180" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iinVpgS5y358O5zJFQLC-22" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="iinVpgS5y358O5zJFQLC-17">
+          <mxGeometry y="60" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iinVpgS5y358O5zJFQLC-23" value="770116" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=0;overflow=hidden;" vertex="1" parent="iinVpgS5y358O5zJFQLC-22">
+          <mxGeometry width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iinVpgS5y358O5zJFQLC-24" value="112212-4" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="iinVpgS5y358O5zJFQLC-22">
+          <mxGeometry x="110" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iinVpgS5y358O5zJFQLC-25" value="Null" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="iinVpgS5y358O5zJFQLC-22">
+          <mxGeometry x="180" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
