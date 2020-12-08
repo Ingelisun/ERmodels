@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T15:24:27.036Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="Nlgetj7hM34np8nq3fGP" version="13.10.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-08T15:30:32.656Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="PkuijVDl7an3XQC3IeKK" version="13.10.0" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="ER-modell">
     <mxGraphModel dx="1335" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -338,6 +338,51 @@
         </mxCell>
         <mxCell id="wdVSmgnH8b1MD7pAjQ6u-12" value="11212" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="wdVSmgnH8b1MD7pAjQ6u-6">
           <mxGeometry x="410" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9JSCbOKM-P9BHcD7XtgK-0" value="  Aktiviteter" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=left;resizeLast=1;" vertex="1" parent="gNFgVbcz2Zj-lySjneVp-1">
+          <mxGeometry x="10" y="280" width="600" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9JSCbOKM-P9BHcD7XtgK-1" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9JSCbOKM-P9BHcD7XtgK-0">
+          <mxGeometry y="30" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9JSCbOKM-P9BHcD7XtgK-2" value="id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=5;overflow=hidden;" vertex="1" parent="9JSCbOKM-P9BHcD7XtgK-1">
+          <mxGeometry width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9JSCbOKM-P9BHcD7XtgK-3" value="Aktivitetstyp" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;overflow=hidden;" vertex="1" parent="9JSCbOKM-P9BHcD7XtgK-1">
+          <mxGeometry x="50" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9JSCbOKM-P9BHcD7XtgK-4" value="Plats" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;fontStyle=1;overflow=hidden;" vertex="1" parent="9JSCbOKM-P9BHcD7XtgK-1">
+          <mxGeometry x="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9JSCbOKM-P9BHcD7XtgK-5" value="Tid" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;fontStyle=1;overflow=hidden;" vertex="1" parent="9JSCbOKM-P9BHcD7XtgK-1">
+          <mxGeometry x="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9JSCbOKM-P9BHcD7XtgK-6" value="Max deltagare" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;fontStyle=1;overflow=hidden;" vertex="1" parent="9JSCbOKM-P9BHcD7XtgK-1">
+          <mxGeometry x="400" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HBYNcblCEcFbcJ2bN1Fj-0" value="Ansvarar for" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;fontStyle=1;overflow=hidden;" vertex="1" parent="9JSCbOKM-P9BHcD7XtgK-1">
+          <mxGeometry x="500" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9JSCbOKM-P9BHcD7XtgK-7" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="9JSCbOKM-P9BHcD7XtgK-0">
+          <mxGeometry y="60" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9JSCbOKM-P9BHcD7XtgK-8" value="237" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=0;overflow=hidden;" vertex="1" parent="9JSCbOKM-P9BHcD7XtgK-7">
+          <mxGeometry width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9JSCbOKM-P9BHcD7XtgK-9" value="Pimpelutflykt" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="9JSCbOKM-P9BHcD7XtgK-7">
+          <mxGeometry x="50" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9JSCbOKM-P9BHcD7XtgK-10" value="Locknesjön" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="9JSCbOKM-P9BHcD7XtgK-7">
+          <mxGeometry x="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9JSCbOKM-P9BHcD7XtgK-11" value="2020-12-08 11.00" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="9JSCbOKM-P9BHcD7XtgK-7">
+          <mxGeometry x="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9JSCbOKM-P9BHcD7XtgK-12" value="15" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="9JSCbOKM-P9BHcD7XtgK-7">
+          <mxGeometry x="400" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HBYNcblCEcFbcJ2bN1Fj-1" value="112212" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="9JSCbOKM-P9BHcD7XtgK-7">
+          <mxGeometry x="500" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
