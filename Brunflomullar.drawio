@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T15:34:55.282Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="JUwaCfnZxYzF6vJn6IiG" version="13.10.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-08T15:39:22.895Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" etag="uggjGeOR9OOUNGiZsGYB" version="13.10.0" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="ER-modell">
     <mxGraphModel dx="1335" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -385,7 +385,7 @@
           <mxGeometry x="500" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HBYNcblCEcFbcJ2bN1Fj-2" value="  Leder" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=left;resizeLast=1;" vertex="1" parent="gNFgVbcz2Zj-lySjneVp-1">
-          <mxGeometry x="460" y="40" width="190" height="100" as="geometry" />
+          <mxGeometry x="450" y="40" width="190" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HBYNcblCEcFbcJ2bN1Fj-3" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="HBYNcblCEcFbcJ2bN1Fj-2">
           <mxGeometry y="30" width="190" height="30" as="geometry" />
@@ -424,6 +424,27 @@
           <mxGeometry width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HBYNcblCEcFbcJ2bN1Fj-15" value="237" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="HBYNcblCEcFbcJ2bN1Fj-13">
+          <mxGeometry x="90" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HBYNcblCEcFbcJ2bN1Fj-16" value="  Föräldrar" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=left;resizeLast=1;" vertex="1" parent="gNFgVbcz2Zj-lySjneVp-1">
+          <mxGeometry x="540" y="160" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HBYNcblCEcFbcJ2bN1Fj-17" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="HBYNcblCEcFbcJ2bN1Fj-16">
+          <mxGeometry y="30" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HBYNcblCEcFbcJ2bN1Fj-18" value="Medlemsnr" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=5;overflow=hidden;" vertex="1" parent="HBYNcblCEcFbcJ2bN1Fj-17">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HBYNcblCEcFbcJ2bN1Fj-19" value="Namn" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="HBYNcblCEcFbcJ2bN1Fj-17">
+          <mxGeometry x="90" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HBYNcblCEcFbcJ2bN1Fj-20" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="HBYNcblCEcFbcJ2bN1Fj-16">
+          <mxGeometry y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HBYNcblCEcFbcJ2bN1Fj-21" value="211222" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=0;overflow=hidden;" vertex="1" parent="HBYNcblCEcFbcJ2bN1Fj-20">
+          <mxGeometry width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HBYNcblCEcFbcJ2bN1Fj-22" value="Stina Säv" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=center;spacingLeft=6;fontStyle=0;overflow=hidden;" vertex="1" parent="HBYNcblCEcFbcJ2bN1Fj-20">
           <mxGeometry x="90" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
