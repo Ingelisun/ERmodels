@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-16T21:22:06.109Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="BrBtyUgSIXcIgbI_xKcH" version="14.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-16T21:34:11.343Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="eGq08l6ZPG6TP6LSYUIc" version="14.0.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="ER">
     <mxGraphModel dx="1144" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -83,6 +83,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="w_8shTSnqPOaF38knWDM-52" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;" edge="1" parent="1" source="w_8shTSnqPOaF38knWDM-35" target="w_8shTSnqPOaF38knWDM-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="w_8shTSnqPOaF38knWDM-35" value="Medverkar i" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="300" y="130" width="120" height="60" as="geometry" />
         </mxCell>
@@ -92,12 +95,6 @@
         <mxCell id="w_8shTSnqPOaF38knWDM-38" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w_8shTSnqPOaF38knWDM-1" target="w_8shTSnqPOaF38knWDM-35">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="160" as="sourcePoint" />
-            <mxPoint x="290" y="270" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="w_8shTSnqPOaF38knWDM-39" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="w_8shTSnqPOaF38knWDM-35" target="w_8shTSnqPOaF38knWDM-37">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="470" y="170" as="sourcePoint" />
             <mxPoint x="290" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
