@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T17:40:55.954Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="YuN0t0MVHBASZKG7a_v-" version="14.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-14T17:43:03.159Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="2WdBGRfIuMwdlZAbT39E" version="14.0.0" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="ER">
     <mxGraphModel dx="801" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -56,13 +56,13 @@
           <mxGeometry x="10" y="20" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5EuRPj-aI9CK-kgrltqV-15" value="Nummer" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
-          <mxGeometry x="10" y="260" width="100" height="40" as="geometry" />
+          <mxGeometry x="10" y="240" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5EuRPj-aI9CK-kgrltqV-16" value="Namn" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="140" y="20" width="100" height="40" as="geometry" />
+          <mxGeometry x="110" y="10" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5EuRPj-aI9CK-kgrltqV-17" value="Namn" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="130" y="260" width="100" height="40" as="geometry" />
+          <mxGeometry x="70" y="310" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5EuRPj-aI9CK-kgrltqV-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5EuRPj-aI9CK-kgrltqV-14" target="5EuRPj-aI9CK-kgrltqV-1">
           <mxGeometry relative="1" as="geometry">
@@ -70,7 +70,7 @@
             <mxPoint x="490" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5EuRPj-aI9CK-kgrltqV-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="5EuRPj-aI9CK-kgrltqV-1">
+        <mxCell id="5EuRPj-aI9CK-kgrltqV-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.3;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5EuRPj-aI9CK-kgrltqV-1" target="5EuRPj-aI9CK-kgrltqV-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="230" as="sourcePoint" />
             <mxPoint x="168" y="60" as="targetPoint" />
@@ -82,7 +82,7 @@
             <mxPoint x="490" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5EuRPj-aI9CK-kgrltqV-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5EuRPj-aI9CK-kgrltqV-2">
+        <mxCell id="5EuRPj-aI9CK-kgrltqV-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5EuRPj-aI9CK-kgrltqV-2" target="5EuRPj-aI9CK-kgrltqV-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="230" as="sourcePoint" />
             <mxPoint x="180" y="260" as="targetPoint" />
@@ -151,6 +151,24 @@
             <mxPoint x="490" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MryDrE8TIwxOaf-oB4nf-1" value="Telefon" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="140" y="250" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MryDrE8TIwxOaf-oB4nf-2" value="Telefon" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="210" y="30" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MryDrE8TIwxOaf-oB4nf-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5EuRPj-aI9CK-kgrltqV-2" target="MryDrE8TIwxOaf-oB4nf-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="230" as="sourcePoint" />
+            <mxPoint x="490" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MryDrE8TIwxOaf-oB4nf-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="5EuRPj-aI9CK-kgrltqV-1" target="MryDrE8TIwxOaf-oB4nf-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="230" as="sourcePoint" />
+            <mxPoint x="490" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -181,7 +199,7 @@
           <mxGeometry x="90" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Lnz0drg3YyzbVLNblRNq-0" value="   Medlemmar" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=left;resizeLast=1;" vertex="1" parent="VmGFISyWn0jLtp833blp-1">
-          <mxGeometry x="230" y="20" width="180" height="100" as="geometry" />
+          <mxGeometry x="340" y="20" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Lnz0drg3YyzbVLNblRNq-1" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Lnz0drg3YyzbVLNblRNq-0">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
