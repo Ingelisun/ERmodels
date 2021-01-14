@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T14:48:09.583Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="yOw3hTG-DlYtZWEwZKlj" version="14.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-14T14:50:10.728Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="BHyUpk488_P51z7owCI3" version="14.0.0" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="ER">
     <mxGraphModel dx="801" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -22,19 +22,19 @@
         <mxCell id="WBjp90xsd_2QCnQ7A9XF-5" value="Rum" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="620" y="200" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WBjp90xsd_2QCnQ7A9XF-6" value="Har_kontrakt" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WBjp90xsd_2QCnQ7A9XF-6" value="Har kontrakt" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="190" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WBjp90xsd_2QCnQ7A9XF-7" value="Bor" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="190" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WBjp90xsd_2QCnQ7A9XF-8" value="Har_kontrakt" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WBjp90xsd_2QCnQ7A9XF-8" value="Har kontrakt" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="140" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WBjp90xsd_2QCnQ7A9XF-24" value="" style="edgeStyle=none;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WBjp90xsd_2QCnQ7A9XF-9" target="WBjp90xsd_2QCnQ7A9XF-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WBjp90xsd_2QCnQ7A9XF-9" value="Innehåller" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="WBjp90xsd_2QCnQ7A9XF-9" value="Hör till" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="470" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WBjp90xsd_2QCnQ7A9XF-15" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WBjp90xsd_2QCnQ7A9XF-1" target="WBjp90xsd_2QCnQ7A9XF-6">
